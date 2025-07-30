@@ -1,5 +1,5 @@
 import React from "react";
-import MyGitHubCalendar from "../../Components/github-cont"; 
+import MyGitHubCalendar from "../Components/github-cont"; 
 
 export default function Home() {
   return (
