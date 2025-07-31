@@ -7,6 +7,7 @@ function Navbar() {
       <Link to="/cv" style={{ marginRight: "1rem" }}>CV</Link>
       <Link to="/projects" style={{ marginRight: "1rem" }}>Projects</Link>
       <Link to="/contact">Contact</Link>
+      <Link to="/about-me">About Me</Link>
     </nav>
   );
 }

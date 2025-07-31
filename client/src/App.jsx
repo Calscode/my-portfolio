@@ -5,6 +5,7 @@ import Projects from './pages/projects';
 import Contact from './pages/contact';
 import Navbar from './Components/Navbar';
 import ParticlesComponent from './Components/Particlescomp'
+import Aboutme from './pages/aboutme';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Route path="/cv" element={<CV />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/about-me" element={<Aboutme />} />
         </Routes>
       </div>
     </div>
