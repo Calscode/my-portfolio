@@ -74,5 +74,57 @@ functional teams.</li>
  <li>Drafted documentation for the role to allow new joiners on my team and other teams to pick the processes up easily.</li>
  <li>Building a grassroots, organic community via Substack, LinkedIn, In person meetings/events as well as virtual Conferences.</li>
  </ul> </p>
+
+ <hr/>
+<h3>COVID-19 Case Handler - Lambeth Council</h3>
+<h4>10/2020 - 06/2022</h4>
+<p>
+  Holistic handling and management of the coronavirus response within Lambeth, SW London. The borough had one of the highest infection rates
+ per capita in the UK, as a result it required extensive outreach, case work, process development, A/B testing and training.
+ <br/>
+ <br/>
+ <ul>
+ <li>Daily navigation of complex calls and advise to each positive case of how to proceed based on the most up-to-date guidelines.</li>
+ <li>Developing and making scalable the most effective test and trace system possible, as well as a support system for local residents to be able
+ to access emergency support whilst isolating.</li>
+ <li>Locate clusters and outbreaks in hospitals, care homes, schools and other vulnerable settings; then working with clinicians and
+ external stakeholders to manage the outbreaks.</li>
+ </ul><br/>
+ We developed one of the most effective response programmes in the UK due to our innovative approach. We completed above 90% of cases with
+ a positive outcome, managed outbreaks and developed a leading comprehensive, holistic support programme
+</p>
+<hr/>
+<h3>Senior 360 Tech Recruiter - MAM Business Intelligence (MAM Gruppe)</h3>
+<h4>10/2020 - 06/2022</h4>
+
+<p>
+  Tech recruiter focused on the German market in Software & Data.
+  <br/>
+  <ul>
+<li>Spearheaded major end-to-end recruitment campaigns using modern recruitment concepts such as scraping and automation alongside old
+ methodologies i.e. cold calling and A/B testing.</li>
+ <li>Scaling rapid growth, agile transformations and digital transformations with SME clients and greenfield projects with larger clients.</li>
+</ul>
+</p>
+<hr/>
+
+<h2>Education</h2>
+<h3>Northcoders</h3>
+<p>Software Development Course focused on Computer Science principles and covering JavaScript, React and Node as the primary centre point with tools and frameworks embedded in the learning.</p>
+
+
+<h3>B.sc Finance & Investment - University of Greenwich</h3>
+<p>I passed the first year, however I left due to not enjoying the course material enough.</p>
+
+
+
+<h3>A levels</h3>
+<p>
+Psychology - B <br/>
+Business Studies - A <br/>
+Uniformed Public Services - Double Distinction Star 
+
+</p>
+
   </div>;
 }
