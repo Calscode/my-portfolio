@@ -1,14 +1,22 @@
 import React from "react";
 import MyGitHubCalendar from "../Components/github-cont"; 
+import Layout from "../Components/layout";
 
 export default function Home() {
   return (
-    <div className="home-container">
-      <div className="home-content">
+    <Layout>
+        <div className="prose prose-invert max-w-4xl w-full">
         <h1>Welcome! 🤝 Bienvenue! ✌️🫡 </h1>
         <h2>This is the home page of my personal site, let me show you a bit about me! 🚀🌍 </h2>
 
         <p>Firstly, thank you for visiting my page. I thought this would be a relevant way to introduce myself given the nature of the skillset I am aiming to showcase. <br/>
+        This website has been build with JavaScript, React, Node, Axios, Tailwind, SQL, Postgres, Render and Supabase. To present my projects I used a back end database with my projects in a projects table and an API via axios to fetch the data from the table. <br/>
+        I attempted to use tsparticles to create the background however due to clashes with WSL it presented too big of a challenge so I settled for a JS equivalent that was easier to work with for WSL, this was particles.js and was made into ints own react component.  <br/><br/>
+        
+        As there was no github api to pull the calendar directly I used a react-github-calendar installation alongside my username in a react component to pull my contributions onto my website. These are updated on my site every 24 hours.
+
+
+        <br/><br/>
         Since stepping into the tech space from a recruitment perspective I quickly became fascinated with the possiblities from a technical perspective, so several years later and here I am.. <br/>
 
         One Udemy course to kickstart everything and then studying with Northcoders to top it all off ! 🍒 <br/>
@@ -33,6 +41,6 @@ export default function Home() {
         <li><h4>Hospitality in various companies - 2009 - 2017</h4></li>
 </ul>
       </div>
-    </div>
+    </Layout>
   );
 }

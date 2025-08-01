@@ -1,5 +1,8 @@
+import Layout from "../Components/layout";
+
 export default function CV() {
   return <div>
+<Layout>
     <h1>Junior Software Developer</h1>
     <h2>Summary</h2>
     <p>Super curious fella, with my heart and mind set on embedding myself in tech. I am actively focused on becoming a Software Engineer
@@ -125,6 +128,6 @@ Business Studies - A <br/>
 Uniformed Public Services - Double Distinction Star 
 
 </p>
-
+</Layout>
   </div>;
 }
