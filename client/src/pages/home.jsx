@@ -1,6 +1,7 @@
 import React from "react";
 import MyGitHubCalendar from "../Components/github-cont"; 
 import Layout from "../Components/layout";
+import Footer from "../Components/footer";
 
 export default function Home() {
   return (
@@ -41,6 +42,7 @@ export default function Home() {
         <li><h4>Hospitality in various companies - 2009 - 2017</h4></li>
 </ul>
       </div>
+      <Footer/>
     </Layout>
   );
 }

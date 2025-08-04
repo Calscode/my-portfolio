@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
+import Footer from "../Components/footer";
 
 export default function Projects() {
   const [projects, setProjects] = useState([]);
@@ -38,6 +39,7 @@ export default function Projects() {
           </li>
         ))}
       </ul>
+      <Footer/>
     </div>
   );
 }

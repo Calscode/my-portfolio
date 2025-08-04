@@ -1,3 +1,4 @@
+import Footer from "../Components/footer";
 import Layout from "../Components/layout";
 
 export default function CV() {
@@ -128,6 +129,7 @@ Business Studies - A <br/>
 Uniformed Public Services - Double Distinction Star 
 
 </p>
+<Footer/>
 </Layout>
   </div>;
 }
