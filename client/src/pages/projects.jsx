@@ -8,7 +8,7 @@ export default function Projects() {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    axios.get("http://localhost:9090/api/projects")
+    axios.get("https://my-portfolio-pgfp.onrender.com/api.projects")
       .then((res) => {
         console.log("✅ Received from backend:", res.data);
         setProjects(res.data.projects);
