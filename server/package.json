@@ -7,7 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "seed": "node db/seeds/seed.js",
     "dev": "node server.js",
-    "start": "node server.js"
+    "start": "node server.js",
+    "prod": "NODE_ENV=production node server.js",
+    "seedprod": "NODE_ENV=production node db/seeds/seed.js"
   },
   "keywords": [],
   "author": "",
